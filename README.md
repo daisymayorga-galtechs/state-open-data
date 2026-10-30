@@ -25,6 +25,7 @@ The core analysis uses quarterly regional labor data categorized by the **North 
 ### Official NAICS Resources
 * [U.S. Census Bureau NAICS Overview](https://www.census.gov/naics/)
 * [2022 NAICS Reference Manual (PDF)](https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf)
+* [Quarterly Census of Employment and Wages (QCEW))]([https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf](https://data.ca.gov/@california-employment-development-department/quarterly-census-of-employment-and-wages)
 
 ### Understanding the Data Hierarchy (`NAICS Level`)
 To prevent double-counting and extract meaningful aggregates, this analysis distinguishes between macro totals and hyper-specific establishments:
